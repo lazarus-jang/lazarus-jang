@@ -10,7 +10,7 @@
 ## Projects
 
 - _(2017.09 ~ 2017.12)_&nbsp; `AndroidStudio` `JAVA` `PHP` `MariaDB`  
- **외국인학생을 위한 음식점랭킹**
+ **외국인학생을 위한 음식점 랭킹정보 제공 어플리케이션**
 - _(2018.03 ~ 2021.06)_&nbsp; `JAVA` `Eclipse` `ns-3`  
  **Proactive Edge Computing 환경에서의 Multi-attribute Caching을 활용한 Peak-time Latency 감축에 대한 연구**
 - _(2023.05 ~ 2023.07)_&nbsp; `Django` `VSCODE` `React` `tts` `notion` `Figma`  
