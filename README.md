@@ -9,6 +9,9 @@
 
 ## Projects
 
-- _2017.09 ~ 2017.12_&nbsp; 외국인학생을 위한 음식점랭킹 #AndroidStudio #JAVA #PHP #MariaDB
-- _2018.03 ~ 2021.06_&nbsp; Proactive Edge Computing 환경에서의 Multi-attribute Caching을 활용한 Peak-time Latency 감축에 대한 연구 #JAVA #Eclipse #ns-3
-- _2023.05 ~ 2023.07_&nbsp; [OwnStory] AI와 tts를 활용한 영어동화 생성 및 읽어주기 #Django #VSCODE #React #tts #notion #Figma
+- _2017.09 ~ 2017.12_&nbsp; 외국인학생을 위한 음식점랭킹
+-                            #AndroidStudio #JAVA #PHP #MariaDB
+- _2018.03 ~ 2021.06_&nbsp; Proactive Edge Computing 환경에서의 Multi-attribute Caching을 활용한 Peak-time Latency 감축에 대한 연구
+-                            #JAVA #Eclipse #ns-3
+- _2023.05 ~ 2023.07_&nbsp; [OwnStory] AI와 tts를 활용한 영어동화 생성 및 읽어주기
+-                            #Django #VSCODE #React #tts #notion #Figma
