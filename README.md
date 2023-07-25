@@ -14,7 +14,7 @@
 - _(2018.03 ~ 2021.06)_&nbsp; `JAVA` `Eclipse` `ns-3`  
  **Proactive Edge Computing 환경에서의 Multi-attribute Caching을 활용한 Peak-time Latency 감축에 대한 연구**
 - _(2023.05 ~ 2023.07)_&nbsp; `Django` `VSCODE` `React` `tts` `notion` `Figma`  
- **[OwnStory] AI와 tts를 활용한 영어동화 생성 및 읽어주기(https://github.com/AIVLE-School-Third-Big-Project/Fairytale/tree/release)**
+ **[[OwnStory] AI와 tts를 활용한 영어동화 생성 및 읽어주기](https://github.com/AIVLE-School-Third-Big-Project/Fairytale/tree/release)**
 
 ## Awards
 
