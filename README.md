@@ -18,8 +18,8 @@
 
 ## Awards
 
-- _2016.12_ 제6회 KSPM 프로젝트 경진대회 우수상
-- _2023.07_ KT AIVLE SCHOOL 3기 Big Project <Practical상>
+- _(2016.12)_ 제6회 KSPM 프로젝트 경진대회 우수상
+- _(2023.07)_ KT AIVLE SCHOOL 3기 Big Project <Practical상>
 
 ## Skills
 
